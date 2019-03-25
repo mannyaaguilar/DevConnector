@@ -36,8 +36,7 @@ module.exports = {
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Manny Aguilar
 
 ### Version
 
